@@ -33,8 +33,8 @@ from os import system
 from datetime import date
 import socket
 import pyfiglet
-print('Error Tool, The Tool run new of send Photos me') 
-exit() 
+
+ 
 a=0
 z=0
 b=0
